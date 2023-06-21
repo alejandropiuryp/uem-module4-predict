@@ -6,27 +6,28 @@
         "label": "cloudantNoSQLDB",
         "plan": "Shared",
         "credentials": {
-          "apikey": "pufcyFRja0Hwtta8Jxm5fVyFXHP2I0kWnjtOLGI5DgV1",
-          "host": "15b73b38-eb4f-4b55-8b92-5a56832306a4-bluemix.cloudantnosqldb.appdomain.cloud",
-          "iam_apikey_description": "Auto-generated for key crn:v1:bluemix:public:cloudantnosqldb:eu-de:a/52fdc7c41f83421688af9df7e6d32a87:747d66b8-98d6-4f24-a154-3eb92f5133cd:resource-key:27b4fffb-a503-40e0-bdf7-e44cc3946d24",
-          "iam_apikey_name": "Credenciales de servicio-1",
+          "apikey": "J87RZhcY5annHTGYBy_Tpd4kSDIVJzgdqdf0SDWPKcij",
+          "host": "46cf8598-b338-4fbf-af43-f25c94e495a4-bluemix.cloudantnosqldb.appdomain.cloud",
+          "iam_apikey_description": "Auto-generated for key crn:v1:bluemix:public:cloudantnosqldb:eu-gb:a/3c3d82cc86fb4aaea909c142f49a8632:4b852ff3-04d9-4e3f-b45d-b1d4a1295ff3:resource-key:81b103a1-16c8-4214-a808-2c9e0ef72824",
+          "iam_apikey_name": "App-training-cloudant",
           "iam_role_crn": "crn:v1:bluemix:public:iam::::serviceRole:Manager",
-          "iam_serviceid_crn": "crn:v1:bluemix:public:iam-identity::a/52fdc7c41f83421688af9df7e6d32a87::serviceid:ServiceId-9c3462f2-3f06-4041-99f8-1087eacea304",
-          "url": "https://15b73b38-eb4f-4b55-8b92-5a56832306a4-bluemix.cloudantnosqldb.appdomain.cloud",
-          "username": "15b73b38-eb4f-4b55-8b92-5a56832306a4-bluemix"
+          "iam_serviceid_crn": "crn:v1:bluemix:public:iam-identity::a/3c3d82cc86fb4aaea909c142f49a8632::serviceid:ServiceId-f96ffb7b-9cbf-4a7f-9d71-fee3454f3deb",
+          "url": "https://46cf8598-b338-4fbf-af43-f25c94e495a4-bluemix.cloudantnosqldb.appdomain.cloud",
+          "port": 443,
+          "username": "46cf8598-b338-4fbf-af43-f25c94e495a4-bluemix"
         }
       }
     ],
     "cloud-object-storage": [
         {
             "credentials": {
-              "apikey": "eYCYnXc-REEESfcbLprdTXI-FahthtTA-w2ZNlbtQcrn",
+              "apikey": "o_OGYoZnRK7Bkg7GKBfK6WCy79xdjRt9PkcraS3WeO0T",
               "endpoints": "https://s3.ap.cloud-object-storage.appdomain.cloud",
-              "iam_apikey_description": "Auto-generated for key crn:v1:bluemix:public:cloud-object-storage:global:a/52fdc7c41f83421688af9df7e6d32a87:c2c14b4e-7f68-4a18-8d62-29b8b1e45ad1:resource-key:b200e01b-cd45-435b-b56e-88a33e1e488b",
-              "iam_apikey_name": "creds2023",
+              "iam_apikey_description": "Auto-generated for key crn:v1:bluemix:public:cloud-object-storage:global:a/3c3d82cc86fb4aaea909c142f49a8632:cbcdfa44-75d0-4409-9fc9-1e5c57bd7b02:resource-key:0d4fbe22-536a-4c6d-8bfd-16ab745b7b12",
+              "iam_apikey_name": "cos-uem-app",
               "iam_role_crn": "crn:v1:bluemix:public:iam::::serviceRole:Manager",
-              "iam_serviceid_crn": "crn:v1:bluemix:public:iam-identity::a/52fdc7c41f83421688af9df7e6d32a87::serviceid:ServiceId-7def9e22-73e6-42a1-8fb9-1d53fe2c7489",
-              "resource_instance_id": "crn:v1:bluemix:public:cloud-object-storage:global:a/52fdc7c41f83421688af9df7e6d32a87:c2c14b4e-7f68-4a18-8d62-29b8b1e45ad1::"
+              "iam_serviceid_crn": "crn:v1:bluemix:public:iam-identity::a/3c3d82cc86fb4aaea909c142f49a8632::serviceid:ServiceId-081a3e99-e6a0-473d-b035-3cc76107be68",
+              "resource_instance_id": "crn:v1:bluemix:public:cloud-object-storage:global:a/3c3d82cc86fb4aaea909c142f49a8632:cbcdfa44-75d0-4409-9fc9-1e5c57bd7b02::"
             },
             "syslog_drain_url": null,
             "volume_mounts": [],
